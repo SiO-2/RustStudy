@@ -20,7 +20,7 @@
 - 《Rust 程序设计语言》
 - 《Rust 编程之道》
 
-<img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/does_not_compile.svg" alt="img" style="zoom:10%;" /><img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/panics.svg" alt="img" style="zoom:10%;" /><img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/unsafe.svg" alt="img" style="zoom:10%;" /><img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/not_desired_behavior.svg" alt="img" style="zoom:10%;" />
+<img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/does_not_compile.svg" alt="img" style="zoom:1%;" /><img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/panics.svg" alt="img" style="zoom:1%;" /><img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/unsafe.svg" alt="img" style="zoom:1%;" /><img src="https://kaisery.github.io/trpl-zh-cn/img/ferris/not_desired_behavior.svg" alt="img" style="zoom:1%;" />
 
 # Day01 Rust与Cargo的安装与使用
 
